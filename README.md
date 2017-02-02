@@ -14,6 +14,7 @@ Services:
 ![alt text](https://github.com/realtech2000/pythagorean-numbers/blob/master/images/services.png "Services")
 
 `generator -> (a,b) -> calculation-one -> (a X a) -> aggregator -> results`
+
 `          -> calculation-two -> (b X b) -> aggregator`
                    
 Remarks:
