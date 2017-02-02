@@ -1,6 +1,7 @@
-# pythagorean-numbers
 
-## Spring Cloud Stream - Aggregator
+# Spring Cloud Stream - Aggregator
+
+## pythagorean-numbers
 
 Proof of concept for aggeregating different messages.
 I was interested only in the aggregator. 
