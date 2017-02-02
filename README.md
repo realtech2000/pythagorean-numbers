@@ -10,7 +10,7 @@ This are NO 12 factor apps!
 One service emmits 2 random numbers (a,b). 
 Over some other services in the end we are checking, if (together with calculated c = sqrt(a X a + b X b)) they form a [Pythagorean triple](https://en.wikipedia.org/wiki/Pythagorean_triple). 
 
-Services:
+###Services:
 ![alt text](https://github.com/realtech2000/pythagorean-numbers/blob/master/images/services.png "Services")
 
 `generator -> (a,b) -> calculation-one -> (a X a) -> aggregator -> results`
