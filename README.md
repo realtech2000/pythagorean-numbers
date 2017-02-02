@@ -17,12 +17,13 @@ Services:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`          -> calculation-two -> (b X b) -> aggregator`
                    
-Remarks:
-NumberOneMessage and NumberTwoMessage are intentionaly different classes.
 
 
-Technology stack:
+###Technology stack:
 - Language: Java 8
 - Build system: Maven
 - Framework: Spring Boot with  Spring Cloud Stream
 - Messaging: RabbitMq
+
+###Remarks:
+- NumberOneMessage and NumberTwoMessage are intentionaly different classes.
