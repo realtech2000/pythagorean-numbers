@@ -15,7 +15,7 @@ Services:
 
 `generator -> (a,b) -> calculation-one -> (a X a) -> aggregator -> results`
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`          -> calculation-two -> (b X b) -> aggregator`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`          -> calculation-two -> (b X b) -> aggregator`
                    
 Remarks:
 NumberOneMessage and NumberTwoMessage are intentionaly different classes.
